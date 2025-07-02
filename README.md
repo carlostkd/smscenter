@@ -3,8 +3,7 @@
 
 > 🕵️‍♂️ **Unmask the SMS Sender!**  
 > Reveal the hidden SMSC (SMS Service Center) number in every incoming message so you can tell **where** 
-
-that text really came from — and keep phishers, scammers & mystery numbers at bay.
+  that text really came from — and keep phishers, scammers & mystery numbers at bay.
 
 ---
 
