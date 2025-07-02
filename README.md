@@ -43,7 +43,7 @@ Because Google *really* dislikes apps that peek at SMS unless they **are** the d
 ---
 
 
-### 🔐 Verifying the APK (Optional, but smart!)
+### 🔐 Verifying the APK 
 
 To confirm the APK hasn’t been tampered with, you can verify its checksum.
 
